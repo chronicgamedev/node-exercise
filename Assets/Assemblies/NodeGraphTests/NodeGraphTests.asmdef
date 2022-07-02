@@ -1,0 +1,20 @@
+{
+    "name": "NodeGraphTests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eea72acefb22d6347b4a5a486edb0c04"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
